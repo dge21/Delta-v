@@ -1,5 +1,5 @@
 - type: trait
-  id: RatvarianLanguaghe
+  id: RatvarianLanguage
   name: trait-ratvarian-language-name
   description: trait-ratvarian-language-desc
   components:
