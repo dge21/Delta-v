@@ -11,3 +11,6 @@ trait-deuteranopia-desc = Whether through custom bionic eyes, random mutation,
 
 trait-uncloneable-name = Uncloneable
 trait-uncloneable-desc = Cannot be cloned
+
+trait-ratvarian-language-name = Ratvarian Language
+trait-ratvarian-language-desc = You speak like the disciples of Ratvar.
