@@ -1,1 +1,6 @@
-fishy :3
+- type: trait
+  id: RatvarianLanguaghe
+  name: trait-ratvarian-language-name
+  description: trait-ratvarian-language-desc
+  components:
+    - type: RatvarianLanguage
